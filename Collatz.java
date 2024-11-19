@@ -29,14 +29,12 @@ public class Collatz {
 					System.out.println("");
 				}
 			}
-
-			
 		}
 
-		if (mode.equals("c")) {
+
 			if (success == seed){
 				System.out.println("Every one of the first " + success + " hailstone sequences reached 1.");
 			}
-		}
+
 	}
 }
