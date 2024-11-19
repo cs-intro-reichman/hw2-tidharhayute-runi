@@ -9,7 +9,7 @@ public class CalcPi {
 			sum = i % 2 == 1 ? (sum - (1 / (double) (1 + (i * 2)))) : (sum + (1 / (double) (1 + (i * 2))));
 		}
 
-		System.out.println("pi according to Java: " + Math.PI );
+		System.out.println("pi according to Java: " + Math.PI);
         System.out.printf("pi, approximated: " + sum * 4);
 	}
 }
