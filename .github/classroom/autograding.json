@@ -205,7 +205,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 1",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     4.0",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 4.0",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -215,7 +215,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 3",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.466666666666667",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 3.466666666666667",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -225,7 +225,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 5",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.3396825396825403",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 3.3396825396825403",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -235,7 +235,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 10",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.0418396189294032",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 3.0418396189294032",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -245,7 +245,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 20",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.09162380666784",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 3.09162380666784",
       "comparison": "included",
       "timeout": 10,
       "points": 3
@@ -255,7 +255,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 100",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.1315929035585537",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 3.1315929035585537",
       "comparison": "included",
       "timeout": 10,
       "points": 4
@@ -265,7 +265,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 1000",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.140592653839794",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 3.140592653839794",
       "comparison": "included",
       "timeout": 10,
       "points": 4
@@ -275,7 +275,7 @@
       "setup": "javac CalcPi.java",
       "run": "java CalcPi 10000",
       "input": "",
-      "output": "pi according to Java: 3.141592653589793\npi, approximated:     3.1414926535900345",
+      "output": "pi according to Java: 3.141592653589793\npi, approximated: 3.1414926535900345",
       "comparison": "included",
       "timeout": 10,
       "points": 4
